@@ -1,0 +1,36 @@
+{
+  "site": {
+    "title": "Tetraware Technologies",
+    "base_url": "/",
+    "favicon": "/images/favicon.jpg",
+    "logo": "/images/Tetraware_NEW_LOGO.png",
+    "logo_width": "200",
+    "logo_height": "48",
+    "logo_text": "Tetraware Technologies"
+  },
+
+  "settings": {
+    "pagination": 4,
+    "summary_length": 200,
+    "blog_folder": "blogs"
+  },
+
+  "nav_button": {
+    "enable": true,
+    "label": "Get Started",
+    "link": "/contact"
+  },
+
+  "params": {
+    "contact_form_action": "",
+    "tag_manager_id": "",
+    "footer_content": "We are software developers who adhere to the agile methodology's concepts. With innovative and user-friendly designs, we produce high-quality software. Our team is made up of a group of incredibly dedicated designers and developers that never stop pushing the envelope.",
+    "copyright": "Designed and Developed By Tetraware Technologies"
+  },
+
+  "metadata": {
+    "meta_author": "Themefisher",
+    "meta_image": "",
+    "meta_description": "A SAAS template for nextjs"
+  }
+}
