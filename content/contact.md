@@ -7,6 +7,6 @@ info:
   description: Experience, customization, and quality. Client satisfaction and timely delivery. Innovation and cost-effectiveness. Collaborative approach. Contact us for software solutions that drive success.
   contacts: 
     - "phone: +91 9547139910"
-    - "Mail: [info@tetraware.com](mailto:info@tetraware.com)"
+    - "Mail: [info@tetraware.co.in](mailto:info@tetraware.co.in)"
     - "Address: D-Marn Villa, Tarulia 1st Lane, Newtown, Kolkata, Pin-700156"
 ---

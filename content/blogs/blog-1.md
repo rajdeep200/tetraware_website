@@ -1,6 +1,6 @@
 ---
-title: "What you need to know about Photography"
-description: "Heading example Here is example of hedings. You can use this heading by following markdownify rules."
+title: "The Future of Artificial Intelligence: Trends and Implications"
+description: "Artificial Intelligence (AI) has rapidly evolved over the years, revolutionizing various industries and becoming an integral part of our daily lives. As we look ahead, the future of AI holds immense potential, bringing forth exciting trends and implications that will shape our world. In this blog, we explore some of the key trends and implications of AI, offering insights into its transformative power and the possibilities that lie ahead."
 image: "/images/blog-1.jpg"
 date: 2022-04-04T05:00:00Z
 draft: false
